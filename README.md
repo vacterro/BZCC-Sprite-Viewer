@@ -1,4 +1,4 @@
-# ***CONTENT BELOW IS AI GENERATED *** *
+#* ***TOOL IS AI GENERATED*** *
 
 # **A simple Sprite Viewer for Battlezone Combat Commander. It reads the sprite adresses in `sprite.txt` and searches recursively in folder for image files.**
 <img width="1434" height="857" alt="clipboard_20260527_011935_4cbba4fc" src="https://github.com/user-attachments/assets/f8941d3d-f845-4f68-bbc9-c3a0072b9f53" />
