@@ -24,7 +24,6 @@ bz2r_res/
 └─ ...
 
 The viewer can search recursively for texture files inside the selected resource directory.
-![Uploading clipboard_20260527_012528_cfcb7a69.png…]()
 <img width="1434" height="857" alt="clipboard_20260527_012531_82dd05ca" src="https://github.com/user-attachments/assets/353510d5-e854-4946-8d34-4ea2e62a158e" />
 
 Usage
