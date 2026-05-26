@@ -1,0 +1,18 @@
+{
+    "resources_path": "V:/__STORE_V/_SOFT/Steam/steamapps/common/BZ2R/bz2r_res",
+    "window_geometry": "900x590+2074+154",
+    "zoom_factor": 1.0,
+    "zoom_mode": "100%",
+    "antialias": false,
+    "grid_alpha": false,
+    "solid_color": "#808080",
+    "brightness": 1.0,
+    "contrast": 1.0,
+    "saturation": 1.0,
+    "gamma": 1.0,
+    "hue": 0.0,
+    "invert": false,
+    "filter_text": "",
+    "sort_key": "Name",
+    "sort_desc": false
+}
