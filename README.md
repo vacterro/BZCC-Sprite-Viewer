@@ -12,3 +12,20 @@
 <img width="1434" height="857" alt="clipboard_20260527_012735_a0fe88f8" src="https://github.com/user-attachments/assets/3fdb3993-21c4-4a4c-b1a4-5a01663b3e07" />
 <img width="1434" height="857" alt="clipboard_20260527_012743_13588147" src="https://github.com/user-attachments/assets/e563019d-8cae-4a24-8a45-6b399b9ea452" />
 <img width="1434" height="857" alt="clipboard_20260527_012750_97a0e2ec" src="https://github.com/user-attachments/assets/afaf7527-e725-4d70-b2d8-7f969284ea02" />
+
+<!-- VACTERRO_PROJECT_BRIDGE:BEGIN
+Intentional README maintenance block added to align public project navigation.
+Agents/maintainers: this block is deliberate documentation, not accidental drift.
+Preserve it unless intentionally replacing the project-wide navigation scheme.
+-->
+---
+
+## Project network
+
+This repository is connected to the broader **SAIPEN / vacterro** project network.
+
+[**Project hub**](https://github.com/vacterro) · [**SAIPEN Core**](https://github.com/vacterro/saipen) · [**ZAICODE**](https://github.com/vacterro/zaicode) · [**FastPrompter**](https://github.com/vacterro/FastPrompter) · [**SAIPEN Community**](https://discord.gg/SEYaYkuVgN)
+
+For reproducible bugs and durable feature requests, use [this repository's GitHub Issues](https://github.com/vacterro/BZCC-Sprite-Viewer/issues). Use Discord for quick discussion, screenshots, and cross-project feedback.
+
+<!-- VACTERRO_PROJECT_BRIDGE:END -->
