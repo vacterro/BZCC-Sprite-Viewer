@@ -28,7 +28,7 @@ pip install Pillow
 python BZCC_SpriteViewer.py
 ```
 
-The bundled `texconv.exe` is used when DDS conversion is required.
+The bundled `texconv.exe` is used when DDS conversion is required; its licence is recorded in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ## Highlights
 
